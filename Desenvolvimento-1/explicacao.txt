@@ -1,0 +1,2 @@
+ Na imagem podemos ver um exemplo de estiização que seria somente possível com a implementação de um documento .js .
+ Ao colocar o mouse sobrepondo o botão " + " se abre uma caixinha explicando a funcionalidade do botão. Depois de clicar no mesmo, se extende um compilado de oppições para escolher.

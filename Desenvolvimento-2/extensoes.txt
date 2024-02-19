@@ -1,0 +1,5 @@
+Extensão 1: Live Server
+    Uma ótima opição para odagem web, já que garante abrir um arquivo HTML já diretamente no navegador e permite ver as alterações em tempo real.
+
+Extensão 2: Prettier - Code formatter
+    Boa escolha por facilitar a codificação. Permite que seja formatada a identação do documento que está fazendo alterações com umm atalho de teclado.
